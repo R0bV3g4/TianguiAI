@@ -341,4 +341,4 @@ Ver `CONTRIBUTING.md` para detalle.
 
 ## Autor
 
-[Roberto Vega](https://github.com/R0bV3g4) — AI Security & Cybersecurity. [Email](mailto:rjvegmor@gmail.com) para colaboraciones, workshops, o si quieres el MANUAL completo privado.
+[Roberto Vega](https://github.com/R0bV3g4) — AI Security & Cybersecurity.
